@@ -75,3 +75,9 @@ abbr a {
 .Home title{
     color: black;
 }
+body{
+    display:all flex;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-image: url(/PESSOINHAMALA.jpeg);
+        }
